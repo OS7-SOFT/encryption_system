@@ -1,0 +1,46 @@
+D:\My_Portfolio\Desktop_Program\Encryption System\Encryption System\bin\Debug\Encryption System.exe
+D:\My_Portfolio\Desktop_Program\Encryption System\Encryption System\bin\Debug\Guna.UI2.dll
+D:\My_Portfolio\Desktop_Program\Encryption System\Encryption System\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+D:\My_Portfolio\Desktop_Program\Encryption System\Encryption System\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.dll
+D:\My_Portfolio\Desktop_Program\Encryption System\Encryption System\bin\Debug\Encryption System.exe.config
+D:\My_Portfolio\Desktop_Program\Encryption System\Encryption System\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+D:\My_Portfolio\Desktop_Program\Encryption System\Encryption System\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.xml
+D:\My_Portfolio\Desktop_Program\Encryption System\Encryption System\obj\Debug\Encryption System.csproj.SuggestedBindingRedirects.cache
+D:\My_Portfolio\Desktop_Program\Encryption System\Encryption System\obj\Debug\Encryption_System.Views.Forms.DecryptData.resources
+D:\My_Portfolio\Desktop_Program\Encryption System\Encryption System\obj\Debug\Encryption_System.Views.Forms.ForgetPassword.resources
+D:\My_Portfolio\Desktop_Program\Encryption System\Encryption System\obj\Debug\Encryption_System.Views.Forms.Home.resources
+D:\My_Portfolio\Desktop_Program\Encryption System\Encryption System\obj\Debug\Encryption_System.Login.resources
+D:\My_Portfolio\Desktop_Program\Encryption System\Encryption System\obj\Debug\Encryption_System.Properties.Resources.resources
+D:\My_Portfolio\Desktop_Program\Encryption System\Encryption System\obj\Debug\Encryption_System.Views.Forms.Register.resources
+D:\My_Portfolio\Desktop_Program\Encryption System\Encryption System\obj\Debug\Encryption System.csproj.GenerateResource.cache
+D:\My_Portfolio\Desktop_Program\Encryption System\Encryption System\obj\Debug\Encryption System.exe.licenses
+D:\My_Portfolio\Desktop_Program\Encryption System\Encryption System\obj\Debug\Encryption System.csproj.CoreCompileInputs.cache
+D:\My_Portfolio\Desktop_Program\Encryption System\Encryption System\obj\Debug\Encryption System.csproj.CopyComplete
+D:\My_Portfolio\Desktop_Program\Encryption System\Encryption System\obj\Debug\Encryption System.exe
+D:\My_Portfolio\Desktop_Program\Encryption System\Encryption System\obj\Debug\Encryption System.pdb
+D:\My_Portfolio\Desktop_Program\Encryption System\Encryption System\bin\Debug\Encryption System.pdb
+D:\My_Portfolio\Desktop_Program\Encryption System\Encryption System\obj\Debug\Encryption System.csproj.AssemblyReference.cache
+D:\My_Portfolio\Desktop_Program\Encryption System\Encryption System\obj\Debug\Encryption_System.Views.Forms.instructionForm.resources
+D:\My_Portfolio\Desktop_Program\Encryption System\Encryption System\bin\Debug\Encryption System.exe.manifest
+D:\My_Portfolio\Desktop_Program\Encryption System\Encryption System\bin\Debug\Encryption System.application
+D:\My_Portfolio\Desktop_Program\Encryption System\Encryption System\obj\Debug\Encryption System.exe.manifest
+D:\My_Portfolio\Desktop_Program\Encryption System\Encryption System\obj\Debug\Encryption System.application
+D:\My_Portfolio\Desktop_Program\Encryption System\Encryption System\obj\Debug\Encryption_System.Views.Forms.SplashScreen.resources
+D:\My_Portfolio\Desktop_Program\Encryption System\Encryption System\bin\Debug\DevExpress.Data.Desktop.v23.1.dll
+D:\My_Portfolio\Desktop_Program\Encryption System\Encryption System\bin\Debug\DevExpress.Data.v23.1.dll
+D:\My_Portfolio\Desktop_Program\Encryption System\Encryption System\bin\Debug\DevExpress.Printing.v23.1.Core.dll
+D:\My_Portfolio\Desktop_Program\Encryption System\Encryption System\bin\Debug\DevExpress.Utils.v23.1.dll
+D:\My_Portfolio\Desktop_Program\Encryption System\Encryption System\bin\Debug\DevExpress.XtraEditors.v23.1.dll
+D:\My_Portfolio\Desktop_Program\Encryption System\Encryption System\bin\Debug\DevExpress.Drawing.v23.1.dll
+D:\My_Portfolio\Desktop_Program\Encryption System\Encryption System\bin\Debug\DevExpress.Pdf.v23.1.Core.dll
+D:\My_Portfolio\Desktop_Program\Encryption System\Encryption System\bin\Debug\DevExpress.Pdf.v23.1.Drawing.dll
+D:\My_Portfolio\Desktop_Program\Encryption System\Encryption System\bin\Debug\DevExpress.Sparkline.v23.1.Core.dll
+D:\My_Portfolio\Desktop_Program\Encryption System\Encryption System\bin\Debug\DevExpress.Data.Desktop.v23.1.xml
+D:\My_Portfolio\Desktop_Program\Encryption System\Encryption System\bin\Debug\DevExpress.Data.v23.1.xml
+D:\My_Portfolio\Desktop_Program\Encryption System\Encryption System\bin\Debug\DevExpress.Printing.v23.1.Core.xml
+D:\My_Portfolio\Desktop_Program\Encryption System\Encryption System\bin\Debug\DevExpress.Utils.v23.1.xml
+D:\My_Portfolio\Desktop_Program\Encryption System\Encryption System\bin\Debug\DevExpress.XtraEditors.v23.1.xml
+D:\My_Portfolio\Desktop_Program\Encryption System\Encryption System\bin\Debug\DevExpress.Drawing.v23.1.xml
+D:\My_Portfolio\Desktop_Program\Encryption System\Encryption System\bin\Debug\DevExpress.Pdf.v23.1.Core.xml
+D:\My_Portfolio\Desktop_Program\Encryption System\Encryption System\bin\Debug\DevExpress.Pdf.v23.1.Drawing.xml
+D:\My_Portfolio\Desktop_Program\Encryption System\Encryption System\bin\Debug\DevExpress.Sparkline.v23.1.Core.xml
