@@ -12,6 +12,7 @@ The encryption system is a simple system that encrypts and hides files, images, 
 ## Technologies Used
 - C#: The programming language used for developing the system.
 - .NET Framework: The framework used for building the system.
+- Guna and Bunifu tools
 
 ## Installation and Usage
 
